@@ -1,0 +1,11 @@
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Chat_TrinhPhucHieu\Client_TrinhPhucHieu\bin\Debug\Client_TrinhPhucHieu.exe.config
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Chat_TrinhPhucHieu\Client_TrinhPhucHieu\bin\Debug\Client_TrinhPhucHieu.exe
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Chat_TrinhPhucHieu\Client_TrinhPhucHieu\bin\Debug\Client_TrinhPhucHieu.pdb
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Chat_TrinhPhucHieu\Client_TrinhPhucHieu\obj\Debug\Client_TrinhPhucHieu.csproj.AssemblyReference.cache
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Chat_TrinhPhucHieu\Client_TrinhPhucHieu\obj\Debug\Client_TrinhPhucHieu.frmClient_Hieu.resources
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Chat_TrinhPhucHieu\Client_TrinhPhucHieu\obj\Debug\Client_TrinhPhucHieu.Properties.Resources.resources
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Chat_TrinhPhucHieu\Client_TrinhPhucHieu\obj\Debug\Client_TrinhPhucHieu.csproj.GenerateResource.cache
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Chat_TrinhPhucHieu\Client_TrinhPhucHieu\obj\Debug\Client_TrinhPhucHieu.csproj.CoreCompileInputs.cache
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Chat_TrinhPhucHieu\Client_TrinhPhucHieu\obj\Debug\Client_TrinhPhucHieu.exe
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Chat_TrinhPhucHieu\Client_TrinhPhucHieu\obj\Debug\Client_TrinhPhucHieu.pdb
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Chat_TrinhPhucHieu\Client_TrinhPhucHieu\obj\Debug\Client_TrinhPhucHieu.frmChuyenTiep.resources

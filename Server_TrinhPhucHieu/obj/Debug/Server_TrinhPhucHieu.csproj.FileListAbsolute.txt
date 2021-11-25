@@ -1,0 +1,11 @@
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Chat_TrinhPhucHieu\Server_TrinhPhucHieu\bin\Debug\Server_TrinhPhucHieu.exe.config
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Chat_TrinhPhucHieu\Server_TrinhPhucHieu\bin\Debug\Server_TrinhPhucHieu.exe
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Chat_TrinhPhucHieu\Server_TrinhPhucHieu\bin\Debug\Server_TrinhPhucHieu.pdb
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Chat_TrinhPhucHieu\Server_TrinhPhucHieu\obj\Debug\Server_TrinhPhucHieu.csproj.AssemblyReference.cache
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Chat_TrinhPhucHieu\Server_TrinhPhucHieu\obj\Debug\Server_TrinhPhucHieu.frmServer_Hieu.resources
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Chat_TrinhPhucHieu\Server_TrinhPhucHieu\obj\Debug\Server_TrinhPhucHieu.Properties.Resources.resources
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Chat_TrinhPhucHieu\Server_TrinhPhucHieu\obj\Debug\Server_TrinhPhucHieu.csproj.GenerateResource.cache
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Chat_TrinhPhucHieu\Server_TrinhPhucHieu\obj\Debug\Server_TrinhPhucHieu.csproj.CoreCompileInputs.cache
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Chat_TrinhPhucHieu\Server_TrinhPhucHieu\obj\Debug\Server_TrinhPhucHieu.exe
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Chat_TrinhPhucHieu\Server_TrinhPhucHieu\obj\Debug\Server_TrinhPhucHieu.pdb
+F:\DAU-STUDY\laptrinhwindow\thuchanh\Chat_TrinhPhucHieu\Server_TrinhPhucHieu\obj\Debug\Server_TrinhPhucHieu.frmChuyenTiep.resources
